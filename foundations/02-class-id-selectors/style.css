@@ -1,0 +1,14 @@
+.odd{
+    background-color:#f5c4c4;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+.even{
+    color:#4b4bdf;
+    font-size:36px;
+}
+.four{
+    background-color: #a1eba1;
+    font-weight: bold;
+    font-size: 24px;
+}
