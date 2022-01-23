@@ -1,6 +1,9 @@
 .odd{
     background-color:#f5c4c4;
     font-family:Verdana, DejaVu Sans, sans-serif;
+    
+}
+.odd-f{
     font-size: 24px;
 }
 .even{
