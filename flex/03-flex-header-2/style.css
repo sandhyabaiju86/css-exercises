@@ -24,6 +24,7 @@ body {
 }
 .right{
   gap: 8px;
+  margin-left: auto;
 }
  ul {
   display: flex;
